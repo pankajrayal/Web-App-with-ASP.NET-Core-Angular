@@ -1,0 +1,46 @@
+C:\D-Drive\Pankaj\Code\ASP.NET\Web App with ASP.NET Core-Angular\02\DutchTreat\bin\Debug\net5.0\appsettings.Development.json
+C:\D-Drive\Pankaj\Code\ASP.NET\Web App with ASP.NET Core-Angular\02\DutchTreat\bin\Debug\net5.0\appsettings.json
+C:\D-Drive\Pankaj\Code\ASP.NET\Web App with ASP.NET Core-Angular\02\DutchTreat\bin\Debug\net5.0\DutchTreat.exe
+C:\D-Drive\Pankaj\Code\ASP.NET\Web App with ASP.NET Core-Angular\02\DutchTreat\bin\Debug\net5.0\DutchTreat.deps.json
+C:\D-Drive\Pankaj\Code\ASP.NET\Web App with ASP.NET Core-Angular\02\DutchTreat\bin\Debug\net5.0\DutchTreat.runtimeconfig.json
+C:\D-Drive\Pankaj\Code\ASP.NET\Web App with ASP.NET Core-Angular\02\DutchTreat\bin\Debug\net5.0\DutchTreat.runtimeconfig.dev.json
+C:\D-Drive\Pankaj\Code\ASP.NET\Web App with ASP.NET Core-Angular\02\DutchTreat\bin\Debug\net5.0\DutchTreat.dll
+C:\D-Drive\Pankaj\Code\ASP.NET\Web App with ASP.NET Core-Angular\02\DutchTreat\bin\Debug\net5.0\ref\DutchTreat.dll
+C:\D-Drive\Pankaj\Code\ASP.NET\Web App with ASP.NET Core-Angular\02\DutchTreat\bin\Debug\net5.0\DutchTreat.pdb
+C:\D-Drive\Pankaj\Code\ASP.NET\Web App with ASP.NET Core-Angular\02\DutchTreat\obj\Debug\net5.0\DutchTreat.GeneratedMSBuildEditorConfig.editorconfig
+C:\D-Drive\Pankaj\Code\ASP.NET\Web App with ASP.NET Core-Angular\02\DutchTreat\obj\Debug\net5.0\DutchTreat.AssemblyInfoInputs.cache
+C:\D-Drive\Pankaj\Code\ASP.NET\Web App with ASP.NET Core-Angular\02\DutchTreat\obj\Debug\net5.0\DutchTreat.AssemblyInfo.cs
+C:\D-Drive\Pankaj\Code\ASP.NET\Web App with ASP.NET Core-Angular\02\DutchTreat\obj\Debug\net5.0\DutchTreat.csproj.CoreCompileInputs.cache
+C:\D-Drive\Pankaj\Code\ASP.NET\Web App with ASP.NET Core-Angular\02\DutchTreat\obj\Debug\net5.0\DutchTreat.MvcApplicationPartsAssemblyInfo.cache
+C:\D-Drive\Pankaj\Code\ASP.NET\Web App with ASP.NET Core-Angular\02\DutchTreat\obj\Debug\net5.0\staticwebassets\DutchTreat.StaticWebAssets.Manifest.cache
+C:\D-Drive\Pankaj\Code\ASP.NET\Web App with ASP.NET Core-Angular\02\DutchTreat\obj\Debug\net5.0\staticwebassets\DutchTreat.StaticWebAssets.xml
+C:\D-Drive\Pankaj\Code\ASP.NET\Web App with ASP.NET Core-Angular\02\DutchTreat\obj\Debug\net5.0\scopedcss\bundle\DutchTreat.styles.css
+C:\D-Drive\Pankaj\Code\ASP.NET\Web App with ASP.NET Core-Angular\02\DutchTreat\obj\Debug\net5.0\DutchTreat.RazorTargetAssemblyInfo.cache
+C:\D-Drive\Pankaj\Code\ASP.NET\Web App with ASP.NET Core-Angular\02\DutchTreat\obj\Debug\net5.0\DutchTreat.dll
+C:\D-Drive\Pankaj\Code\ASP.NET\Web App with ASP.NET Core-Angular\02\DutchTreat\obj\Debug\net5.0\ref\DutchTreat.dll
+C:\D-Drive\Pankaj\Code\ASP.NET\Web App with ASP.NET Core-Angular\02\DutchTreat\obj\Debug\net5.0\DutchTreat.pdb
+C:\D-Drive\Pankaj\Code\ASP.NET\Web App with ASP.NET Core-Angular\02\DutchTreat\obj\Debug\net5.0\DutchTreat.genruntimeconfig.cache
+C:\D-Drive\Pankaj\Code\ASP.NET\Web App with ASP.NET Core-Angular\02\DutchTreat\obj\Debug\net5.0\DutchTreat.csprojAssemblyReference.cache
+C:\D-Drive\Pankaj\Code\ASP.NET\Web App with ASP.NET Core-Angular\03-HTML5 & CSS Basics\DutchTreat\bin\Debug\net5.0\appsettings.Development.json
+C:\D-Drive\Pankaj\Code\ASP.NET\Web App with ASP.NET Core-Angular\03-HTML5 & CSS Basics\DutchTreat\bin\Debug\net5.0\appsettings.json
+C:\D-Drive\Pankaj\Code\ASP.NET\Web App with ASP.NET Core-Angular\03-HTML5 & CSS Basics\DutchTreat\bin\Debug\net5.0\DutchTreat.exe
+C:\D-Drive\Pankaj\Code\ASP.NET\Web App with ASP.NET Core-Angular\03-HTML5 & CSS Basics\DutchTreat\bin\Debug\net5.0\DutchTreat.deps.json
+C:\D-Drive\Pankaj\Code\ASP.NET\Web App with ASP.NET Core-Angular\03-HTML5 & CSS Basics\DutchTreat\bin\Debug\net5.0\DutchTreat.runtimeconfig.json
+C:\D-Drive\Pankaj\Code\ASP.NET\Web App with ASP.NET Core-Angular\03-HTML5 & CSS Basics\DutchTreat\bin\Debug\net5.0\DutchTreat.runtimeconfig.dev.json
+C:\D-Drive\Pankaj\Code\ASP.NET\Web App with ASP.NET Core-Angular\03-HTML5 & CSS Basics\DutchTreat\bin\Debug\net5.0\DutchTreat.dll
+C:\D-Drive\Pankaj\Code\ASP.NET\Web App with ASP.NET Core-Angular\03-HTML5 & CSS Basics\DutchTreat\bin\Debug\net5.0\ref\DutchTreat.dll
+C:\D-Drive\Pankaj\Code\ASP.NET\Web App with ASP.NET Core-Angular\03-HTML5 & CSS Basics\DutchTreat\bin\Debug\net5.0\DutchTreat.pdb
+C:\D-Drive\Pankaj\Code\ASP.NET\Web App with ASP.NET Core-Angular\03-HTML5 & CSS Basics\DutchTreat\obj\Debug\net5.0\DutchTreat.csprojAssemblyReference.cache
+C:\D-Drive\Pankaj\Code\ASP.NET\Web App with ASP.NET Core-Angular\03-HTML5 & CSS Basics\DutchTreat\obj\Debug\net5.0\DutchTreat.GeneratedMSBuildEditorConfig.editorconfig
+C:\D-Drive\Pankaj\Code\ASP.NET\Web App with ASP.NET Core-Angular\03-HTML5 & CSS Basics\DutchTreat\obj\Debug\net5.0\DutchTreat.AssemblyInfoInputs.cache
+C:\D-Drive\Pankaj\Code\ASP.NET\Web App with ASP.NET Core-Angular\03-HTML5 & CSS Basics\DutchTreat\obj\Debug\net5.0\DutchTreat.AssemblyInfo.cs
+C:\D-Drive\Pankaj\Code\ASP.NET\Web App with ASP.NET Core-Angular\03-HTML5 & CSS Basics\DutchTreat\obj\Debug\net5.0\DutchTreat.csproj.CoreCompileInputs.cache
+C:\D-Drive\Pankaj\Code\ASP.NET\Web App with ASP.NET Core-Angular\03-HTML5 & CSS Basics\DutchTreat\obj\Debug\net5.0\DutchTreat.MvcApplicationPartsAssemblyInfo.cache
+C:\D-Drive\Pankaj\Code\ASP.NET\Web App with ASP.NET Core-Angular\03-HTML5 & CSS Basics\DutchTreat\obj\Debug\net5.0\staticwebassets\DutchTreat.StaticWebAssets.Manifest.cache
+C:\D-Drive\Pankaj\Code\ASP.NET\Web App with ASP.NET Core-Angular\03-HTML5 & CSS Basics\DutchTreat\obj\Debug\net5.0\staticwebassets\DutchTreat.StaticWebAssets.xml
+C:\D-Drive\Pankaj\Code\ASP.NET\Web App with ASP.NET Core-Angular\03-HTML5 & CSS Basics\DutchTreat\obj\Debug\net5.0\scopedcss\bundle\DutchTreat.styles.css
+C:\D-Drive\Pankaj\Code\ASP.NET\Web App with ASP.NET Core-Angular\03-HTML5 & CSS Basics\DutchTreat\obj\Debug\net5.0\DutchTreat.RazorTargetAssemblyInfo.cache
+C:\D-Drive\Pankaj\Code\ASP.NET\Web App with ASP.NET Core-Angular\03-HTML5 & CSS Basics\DutchTreat\obj\Debug\net5.0\DutchTreat.dll
+C:\D-Drive\Pankaj\Code\ASP.NET\Web App with ASP.NET Core-Angular\03-HTML5 & CSS Basics\DutchTreat\obj\Debug\net5.0\ref\DutchTreat.dll
+C:\D-Drive\Pankaj\Code\ASP.NET\Web App with ASP.NET Core-Angular\03-HTML5 & CSS Basics\DutchTreat\obj\Debug\net5.0\DutchTreat.pdb
+C:\D-Drive\Pankaj\Code\ASP.NET\Web App with ASP.NET Core-Angular\03-HTML5 & CSS Basics\DutchTreat\obj\Debug\net5.0\DutchTreat.genruntimeconfig.cache
