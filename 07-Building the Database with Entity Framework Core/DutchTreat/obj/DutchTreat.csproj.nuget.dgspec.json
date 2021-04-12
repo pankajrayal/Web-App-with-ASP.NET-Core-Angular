@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\D-Drive\\Pankaj\\Code\\ASP.NET\\Web App with ASP.NET Core-Angular\\05-Using ASP.NET MVC\\DutchTreat\\DutchTreat.csproj": {}
+    "C:\\D-Drive\\Pankaj\\Code\\ASP.NET\\Web App with ASP.NET Core-Angular\\07-Building the Database with Entity Framework Core\\DutchTreat\\DutchTreat.csproj": {}
   },
   "projects": {
-    "C:\\D-Drive\\Pankaj\\Code\\ASP.NET\\Web App with ASP.NET Core-Angular\\05-Using ASP.NET MVC\\DutchTreat\\DutchTreat.csproj": {
+    "C:\\D-Drive\\Pankaj\\Code\\ASP.NET\\Web App with ASP.NET Core-Angular\\07-Building the Database with Entity Framework Core\\DutchTreat\\DutchTreat.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\D-Drive\\Pankaj\\Code\\ASP.NET\\Web App with ASP.NET Core-Angular\\05-Using ASP.NET MVC\\DutchTreat\\DutchTreat.csproj",
+        "projectUniqueName": "C:\\D-Drive\\Pankaj\\Code\\ASP.NET\\Web App with ASP.NET Core-Angular\\07-Building the Database with Entity Framework Core\\DutchTreat\\DutchTreat.csproj",
         "projectName": "DutchTreat",
-        "projectPath": "C:\\D-Drive\\Pankaj\\Code\\ASP.NET\\Web App with ASP.NET Core-Angular\\05-Using ASP.NET MVC\\DutchTreat\\DutchTreat.csproj",
+        "projectPath": "C:\\D-Drive\\Pankaj\\Code\\ASP.NET\\Web App with ASP.NET Core-Angular\\07-Building the Database with Entity Framework Core\\DutchTreat\\DutchTreat.csproj",
         "packagesPath": "C:\\Users\\prayal\\.nuget\\packages\\",
-        "outputPath": "C:\\D-Drive\\Pankaj\\Code\\ASP.NET\\Web App with ASP.NET Core-Angular\\05-Using ASP.NET MVC\\DutchTreat\\obj\\",
+        "outputPath": "C:\\D-Drive\\Pankaj\\Code\\ASP.NET\\Web App with ASP.NET Core-Angular\\07-Building the Database with Entity Framework Core\\DutchTreat\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -46,6 +46,16 @@
           "targetAlias": "net5.0",
           "dependencies": {
             "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[5.0.5, )"
             }
