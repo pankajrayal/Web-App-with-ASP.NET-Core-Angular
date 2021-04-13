@@ -10,5 +10,10 @@
       "DutchTreat": "Information",
       "Microsoft": "Warning"
     }
+  },
+  "Tokens": {
+    "Key": "afdlkj;lsajfo4u32432sfdljlkjlsajflsafdjlksafdsafljlkjsafddsaf",
+    "Issuer": "http://localhost:8888",
+    "Audience": "https://localhost:8888"
   }
 }

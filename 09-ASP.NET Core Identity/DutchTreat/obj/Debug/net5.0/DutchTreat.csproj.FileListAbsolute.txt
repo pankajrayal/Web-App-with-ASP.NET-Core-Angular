@@ -1535,3 +1535,4 @@ C:\D-Drive\Pankaj\Code\ASP.NET\Web App with ASP.NET Core-Angular\09-ASP.NET Core
 C:\D-Drive\Pankaj\Code\ASP.NET\Web App with ASP.NET Core-Angular\09-ASP.NET Core Identity\DutchTreat\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
 C:\D-Drive\Pankaj\Code\ASP.NET\Web App with ASP.NET Core-Angular\09-ASP.NET Core Identity\DutchTreat\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
 C:\D-Drive\Pankaj\Code\ASP.NET\Web App with ASP.NET Core-Angular\09-ASP.NET Core Identity\DutchTreat\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\D-Drive\Pankaj\Code\ASP.NET\Web App with ASP.NET Core-Angular\09-ASP.NET Core Identity\DutchTreat\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
