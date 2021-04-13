@@ -1,0 +1,14 @@
+{
+  "Colors": {
+    "Favorite": "Blue"
+  },
+  "ConnectionStrings": {
+    "DutchContextDb": "Data Source=US-PF1ZJ9QY\\PRDEVENV; Initial Catalog=DutchTreatDB; User ID=sa;Password=prayal@123; MultipleActiveResultSets=true;"
+  },
+  "Logging": {
+    "LogLevel": {
+      "DutchTreat": "Information",
+      "Microsoft": "Warning"
+    }
+  }
+}
