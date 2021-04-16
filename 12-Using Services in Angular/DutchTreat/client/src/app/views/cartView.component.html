@@ -1,0 +1,32 @@
+﻿<!--DutchTreat\client\src\app\views\cartView.component.html-->
+<h3>Cart</h3>
+<div>Count: {{ store.order.items.length }}</div>
+<table class="table table-striped table-sm">
+    <thead>
+        <tr>
+            <th></th>
+            <th>Product</th>
+            <th>Quantity</th>
+            <th>Price</th>
+            <th>Total</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let item of store.order.items">
+            <td>
+                <img src="/img/{{item.productArtId}}.jpg" alt="{{item.productArtist}}"
+                     class="img-fluid product-thumb"/>
+            </td>
+            <td>{{ item.productCategory }}</td>
+            <td>{{ item.quantity }}</td>
+            <td>{{ item.unitPrice | currency }}</td>
+            <td>{{ item.unitPrice * item.quantity | currency }}</td>
+        </tr>
+    </tbody>
+    <tfoot>
+        <tr>
+            <td colspan="5">Subtotal: {{ store.order.subTotal | currency }}</td>
+        </tr>
+    </tfoot>
+</table>
+<hr />

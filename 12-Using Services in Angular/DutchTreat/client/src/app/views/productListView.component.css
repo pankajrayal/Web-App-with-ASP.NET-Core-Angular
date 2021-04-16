@@ -1,0 +1,10 @@
+﻿/*DutchTreat\client\src\app\views\productListView.component.css*/
+.product-image {
+    border: 1px #ddd solid;
+    box-shadow: rgba(0,0,0,.4) 5px 5px;
+    margin: 5px;
+}
+
+.products-props {
+    font-size: .9rem;
+}
