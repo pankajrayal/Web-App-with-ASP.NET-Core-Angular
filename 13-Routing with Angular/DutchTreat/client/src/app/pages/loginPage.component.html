@@ -1,0 +1,28 @@
+<!--DutchTreat\client\src\app\pages\loginPage.component.html-->
+<div class="row">
+    <div class="col-md-4 col-md-offset-4">
+        <div *ngIf="errorMessage" class="alert alert-danger">{{ errorMessage }}</div>
+        <form (submit)="onLogin()">
+            <div class="form-group">
+                <label for="username">Username</label>
+                <input type="text" class="form-control" #username="ngModel" required
+                       name="name" [(ngModel)]="creds.username" />
+                <div class="text-danger" *ngIf="username.touched && username.invalid
+                     && username.errors.required">Username is required</div>
+            </div>
+            <div class="form-group">
+                <label for="password">Password</label>
+                <input type="password" class="form-control" #password="ngModel" required 
+                       name="password" [(ngModel)]="creds.password" />
+                <div class="text-danger" *ngIf="password.touched && password.invalid
+                     && password.errors.required">Password is required</div>
+            </div>
+            <div class="form-group">
+                <input type="submit" class="btn btn-success" value="Login" 
+                       [disabled]="username.invalid || password.invalid" />
+                <a href="#" class="btn btn-default">Cancel</a>
+            </div>
+        </form>
+        <div>{{ creds | json }}</div>
+    </div>
+</div>
